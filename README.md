@@ -1,4 +1,4 @@
-![Manish Aswal](https://capsule-render.vercel.app/type=waving&color=0:121212,100:009688&height=220&section=header&text=PRINSU%20KUMAR&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descSize=20&descAlign=50&descAlignY=65)
+![Manish Aswal](https://capsule-render.vercel.app/type=waving&color=0:121212,100:009688&height=220&section=header&text=MANISH%20ASWAL&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descSize=20&descAlign=50&descAlignY=65)
 
 Hello! Main ek passionate coder hoon jo AI aur clean engineering solutions build karta hoon.
 
