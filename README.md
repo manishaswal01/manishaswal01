@@ -1,17 +1,11 @@
 <div align="center">
 
 ```
- __  __    _    _   _ ___ ____  _   _     
-|  \/  |  / \  | \ | |_ _/ ___|| | | |        
-| |\/| | / _ \ |  \| || |\___ \| |_| |       
-| |  | |/ ___ \| |\  || | ___) |  _  |   
-|_|  |_/_/   \_\_| \_|___|____/|_| |_| 
-
-     _    ____ __        ___    _     
-    / \  / ___|\ \      / / \  | |    
-   / _ \ \___ \ \ \ /\ / / _ \ | |    
-  / ___ \ ___) | \ V  V / ___ \| |___ 
- /_/   \_\____/   \_/\_/_/   \_\_____|
+  __  __    _    _   _ ___ ____  _   _         _    ____ __        ___    _  
+     |  \/  |  / \  | \ | |_ _/ ___|| | | |       / \  / ___|\ \      / / \  | |     
+     | |\/| | / _ \ |  \| || |\___ \| |_| |      / _ \ \___ \ \ \ /\ / / _ \ | |     
+    | |  | |/ ___ \| |\  || | ___) |  _  |     / ___ \ ___) | \ V  V / ___ \| |___ 
+    |_|  |_/_/   \_\_| \_|___|____/|_| |_|    /_/   \_\____/   \_/\_/_/   \_\_____|
 ```
 
 ### 🚀 Full Stack Developer · AI Enthusiast · Competitive Programmer
@@ -88,22 +82,42 @@ goal        : SDE / Software Developer Role
 
 ## 🚀 Featured Projects
 
-### 🤖 Jarvis AI Assistant
-> AI-based assistant using Python
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Voice command-based assistant  
-- Automation tasks (open apps, search, etc.)  
-- Future scope: LLM integration  
+### 🤖 [Jarvis– AI Desktop Assistant](https://github.com/manishaswal01/Jarvis)
+> **AI-based assistant using Python**
 
----
+**Tech:** `Python` `JavaScript` `HTML` `CSS` `PyAutoGUI` `Threading` `Ollama(Local LLM)`
 
-### 📊 Attend-Pro App
-> Attendance Management System
+- 🧠 AI-based command processing
+- 🎤 Voice + Text interaction
+- 🌐 Web-based frontend interface
+- 📂 File & system control automation
+- 🔍 Web search functionality
+- 💬 WhatsApp messaging automation
+- 🧾 Memory system (store & recall data)
+- ⏰ Reminder system (multi-threading based)
+  
+</td>
+<td width="50%" valign="top">
 
-- Built using MERN stack  
-- Tracks attendance efficiently  
-- Clean UI + backend integration  
+### 🏆 [Attend-Pro – Full Stack Attendance Management System](https://github.com/manishaswal01/attend-pro)
+> **Attendance Management System**
 
+**Tech:** `PostgreSQL` `Express.js` `React.js` `Node.js` 
+
+- 👥 Designed and developed a full-stack employee attendance system using Node.js, Express.js, PostgreSQL, and React.js.
+- 🧠 Implemented secure JWT authentication and role-based access control (Admin & Employee).
+- 🚀 Built complete Employee CRUD module with backend APIs and frontend integration.
+- 🔐 Developed attendance tracking system (check-in/check-out, daily records).
+- 🐳Optimized database queries and ensured proper API error handling.
+- 📊 Followed modular architecture with separate controllers, routes, and middleware.
+
+</td>
+</tr>
+</table>
 ---
 
 ### 💻 LeetCode Journey
@@ -119,12 +133,15 @@ goal        : SDE / Software Developer Role
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manishaswal01&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishaswal01&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishaswal01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishaswal01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishaswal01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
+
 
 ## 🏆 Achievements 
 
@@ -147,6 +164,7 @@ goal        : SDE / Software Developer Role
 ```
 ✅ Strong DSA (LeetCode + GFG)
 ✅ Build Full Stack Projects
+✅ Integrate Generative AI into real products
 🔄 Crack Internship (SDE Role)
 🔄 Improve System Design
 ⬜ Build SaaS Product
@@ -162,6 +180,7 @@ goal        : SDE / Software Developer Role
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manish-aswal-1b2345396/) 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishnaswal@gmail.com) 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=manishaswal01&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 </div>
